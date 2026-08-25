@@ -5,8 +5,13 @@ Aim/hypothesis: To investigate the effects of CMR phenotypes on HF risk and its 
 
 # Packages
 openxlsx 4.2.8.1
+
 MendelianRandomization 0.10.0
+
 TwoSampleMR 0.7.9
+
 ggplot2 4.0.3
+
 tidyverse 2.0.0
+
 data.table 1.18.4
